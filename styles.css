@@ -38,7 +38,7 @@ a.thumb3:link {
 
 /* Below displays the span tag contents upon hovering over the a tags and positions the span tag contents. */
 
-#container a:hover span {
+#container a:hover span { 
    display: block;
    position: absolute; 
    top: 80px; 
